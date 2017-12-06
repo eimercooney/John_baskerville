@@ -32,6 +32,43 @@ h1, h2, h3 {
      text-align: center;     
 }
 
+/*----------LINKS---------- */
+
+a {
+    color: #c06;
+    text-decoration: none;} 
+
+a:hover {
+    color: #006341;
+    border-bottom: 1px dotted;
+}
+
+/*----------NAVIGATION----------*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 1em 0;}
+
+nav ul {
+    text-align: center;
+   text-transform: uppercase;
+  letter-spacing: 2px;}
+
+nav ul li {
+    display: inline;
+    margin: 20px;}
+
+nav a:hover {
+    border-bottom: none;
+    color: #c06;
+}
+
+
 /*--------------- TYPOGRAPHY ---------------*/
 
 p, li, blockquote {
@@ -49,5 +86,35 @@ h2 {
     font-size: 2.25em;
     margin-bottom: 1em;
 }
+
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.4em;
+    color: #777;}
+
+blockquote cite {
+    font-size: .75em;
+}
+   
+/*----------------IMAGES----------------*/
+
+img {
+    display: block;
+    margin: 4em auto; 
+    padding: 0;
+    max-width: 100%;
 }
 
+/*----------------FOOTER----------------*/
+
+footer {
+    text-align: center;
+    font-size: .75em;
+    line-height: 1.5em;
+    padding-bottom: 2em;
+}
+
+footer+small {
+    text-align: left;
+}
