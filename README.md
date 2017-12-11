@@ -14,3 +14,8 @@ John Baskerville
 History of Type
 ---------------
 - [A Brief History of Type 01](https://eimercooney.github.io/historyoftype.html)
+- [A Brief History of Type 02](https://eimercooney.github.io/john_baskerville/a_brief_history_of_type2.html)
+- [A Brief History of Type 03](https://eimercooney.github.io/john_baskerville/a_brief_history_of_type4.html)
+- [A Brief History of Type 04](https://eimercooney.github.io/john_baskerville/a_brief_history_of_type5.html)
+- [A Brief History of Type 05](https://eimercooney.github.io/john_baskerville/a_brief_history_of_type6.html)
+- [A Brief History of Type 06](https://eimercooney.github.io/john_baskerville/a_brief_history_of_type7.html)
